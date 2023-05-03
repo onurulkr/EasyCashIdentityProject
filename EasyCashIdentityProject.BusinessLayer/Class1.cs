@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EasyCashIdentityProject.EntityLayer
+namespace EasyCashIdentityProject.BusinessLayer
 {
     public class Class1
     {
