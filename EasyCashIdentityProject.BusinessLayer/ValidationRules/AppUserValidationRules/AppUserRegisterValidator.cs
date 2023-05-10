@@ -1,4 +1,4 @@
-﻿using EasyCashIdentityProject.DtoLayer.Dtos.AppRoleDtos;
+﻿using EasyCashIdentityProject.DtoLayer.Dtos.AppUserDtos;
 using FluentValidation;
 using System;
 using System.Collections.Generic;

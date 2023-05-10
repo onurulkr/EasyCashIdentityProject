@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Dtos\AppUserDtos\" />
+    <Folder Include="Dtos\AppRoleDtos\" />
     <Folder Include="Dtos\CustomerAccountDtos\" />
     <Folder Include="Dtos\CustomerAccountProcessDtos\" />
   </ItemGroup>
