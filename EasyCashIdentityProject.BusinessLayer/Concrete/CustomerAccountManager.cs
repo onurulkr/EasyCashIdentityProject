@@ -12,7 +12,7 @@ namespace EasyCashIdentityProject.BusinessLayer.Concrete
     public class CustomerAccountManager : ICustomerAccountService
     {
         private readonly ICustomerAccountDal _customerAccountDal;
-
+ 
         public CustomerAccountManager(ICustomerAccountDal customerAccountDal)
         {
             _customerAccountDal = customerAccountDal;
